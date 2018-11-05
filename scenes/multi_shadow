@@ -1,0 +1,89 @@
+Scene
+{
+	Position: 0, 2, -15
+	Rotation: 0, 0, 0
+	Recursion: 3
+}
+Plane
+{
+	Position: 0, 0, 0
+	Direction: 0, 1, 0
+	Color: FFDAB9
+	Specular: 1
+	Reflection : 0
+}
+Plane
+{
+	Position: 0, 0, 10
+	Direction: 0, 0, 1
+	Color: 95866A
+	Specular: 1
+	Reflection : 0
+}
+Plane
+{
+	Position: -3, 0, 2
+	Direction: 0, 0, 1
+	Color: FFFACD
+	Specular: 1
+	Reflection : 0
+}
+Sphere
+{
+	Position: -1, 2, 1
+	Radius: 1
+	Color: ff0000
+	Specular: 100
+	Reflection : 0
+}
+Cylinder
+{
+	Radius: 1
+	Position: 0, 0, 2
+	Direction: 0, -1, 0
+	Color: 808080
+	Specular: 100
+	Reflection : 1
+}
+Light
+{
+	Type: point
+	Intensity: 0.1
+	Position: 0, 5, 0
+}
+Light
+{
+	Type: point
+	Intensity: 0.1
+	Position: 1, 4, 0
+}
+Light
+{
+	Type: point
+	Intensity: 0.1
+	Position: -1, 4, 0
+}
+Light
+{
+	Type: point
+	Intensity: 0.1
+	Position: -2, 3, 0
+}
+Light
+{
+	Type: point
+	Intensity: 0.1
+	Position: 2, 3, 0
+}
+Light
+{
+	Type: point
+	Intensity: 0.1
+	Position: 0.5, 2, 0
+}
+Light
+{
+	Type: point
+	Intensity: 0.1
+	Position: -0.5, 2, 0
+}

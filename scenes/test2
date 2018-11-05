@@ -1,0 +1,51 @@
+Scene
+{
+	Rotation: 0, 0, 0
+	Position: 0, 0, -10
+	Refraction: 3
+	Reflection: 3
+}
+Light
+{
+	Type: ambient
+	Intensity: 0.3
+}
+Plane
+{
+	Position: 0, -1, 0
+	Direction: 0, 1, 0
+	Color: e9ed23
+	Specular: 1
+	Reflection: 0
+	Refraction: 0
+	Transparency: 0
+}
+
+Light
+{
+	Type: point
+	Intensity: 0.6
+	Position: 0, 3, -1
+}
+Sphere
+{
+	Position: 0, 0, 3
+	Direction: 0, 1, 0
+	radius: 1
+	Color: ffffff
+	Specular: 300
+	Reflection: 0.9
+	Refraction: 0
+	Transparency: 0.7
+}
+Cylinder
+{
+	Position: 0, 0, 3
+	Direction: 1, 1, 0
+	radius: 0.2
+	Color: ff0000
+	Specular: 300
+	Reflection: 0
+	Refraction: 0
+	Transparency: 0
+}

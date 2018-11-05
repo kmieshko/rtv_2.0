@@ -1,0 +1,75 @@
+Scene
+{
+	Rotation: 0, 30, 0
+	Position: -10, 0, -10
+	Refraction_index_INSIDE: 0
+	Refraction_index_OUTSIDE: 0
+	Reflection: 3
+}
+Light
+{
+	Type: ambient
+	Intensity: 0.3
+}
+Plane
+{
+	Position: 0, 0, 8
+	Direction: 0, 0, 1
+	Color: e9ed23
+	Specular: 1
+	Reflection: 0
+	Refraction_index_INSIDE: 0
+	Refraction_index_OUTSIDE: 0
+	Transparency: 0
+}
+Plane
+{
+	Position: 0, -2, 0
+	Direction: 0, 1, 0
+	Color: 5dd423
+	Specular: 1
+	Reflection: 0
+	Refraction_index_INSIDE: 0
+	Refraction_index_OUTSIDE: 0
+	Transparency: 0
+}
+Light
+{
+	Type: point
+	Intensity: 0.6
+	Position: 0, 3, -1
+}
+Plane
+{
+	Position: 2, 0, 0
+	Direction: 1, 0, 0
+	Color: 5a95c6
+	Specular: 1
+	Reflection: 0
+	Refraction_index_INSIDE: 0
+	Refraction_index_OUTSIDE: 0
+	Transparency: 0
+}
+Sphere
+{
+	Position: -1, 0, 4
+	radius: 2
+	Color: 7caeff
+	Specular: 300
+	Reflection: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1.33
+	Transparency: 0
+}
+Cylinder
+{
+	Position: 0, 1.2, 3
+	Direction: 1, 1, 0
+	radius: 0.1
+	Color: 6ae9ca
+	Specular: 300
+	Reflection: 0
+	Refraction_index_INSIDE: 0
+	Refraction_index_OUTSIDE: 0
+	Transparency: 0
+}
