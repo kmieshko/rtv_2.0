@@ -19,6 +19,8 @@ Plane
 	Reflection: 0
 	Refraction: 0
 	Transparency: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 
 Light
@@ -34,9 +36,11 @@ Sphere
 	radius: 1
 	Color: ffffff
 	Specular: 300
-	Reflection: 0.9
+	Reflection: 0
 	Refraction: 0
-	Transparency: 0.7
+	Transparency: 0.9
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 Cylinder
 {
@@ -48,4 +52,6 @@ Cylinder
 	Reflection: 0
 	Refraction: 0
 	Transparency: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }

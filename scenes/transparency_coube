@@ -13,7 +13,7 @@ Light
 Light
 {
 	Type: point
-	Intensity: 0.8
+	Intensity: 0.7
 	Position: 0, 0, 1
 }
 Plane
@@ -24,8 +24,8 @@ Plane
 	Transparency: 0
 	Specular: 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 Plane
 {
@@ -35,8 +35,8 @@ Plane
 	Transparency: 0
 	Specular: 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 Plane
 {
@@ -46,8 +46,8 @@ Plane
 	Transparency: 0
 	Specular: 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 Plane
 {
@@ -57,8 +57,8 @@ Plane
 	Transparency: 0
 	Specular: 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 Plane
 {
@@ -68,8 +68,8 @@ Plane
 	Transparency: 0
 	Specular: 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 Sphere
 {
@@ -77,8 +77,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0
 	Color : 7caeff
 }
@@ -88,8 +88,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0.09
 	Color : 7caeff
 }
@@ -99,8 +99,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0.18
 	Color : 7caeff
 }
@@ -110,8 +110,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0.27
 	Color : 7caeff
 }
@@ -121,8 +121,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0.36
 	Color : 7caeff
 }
@@ -132,19 +132,36 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0.45
 	Color : 7caeff
 }
+
+
+
+Sphere
+{
+	Position : 0, -0.5, 0.9
+	Radius: 0.3
+	Specular : 0
+	Reflection: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
+	Transparency : 0.5
+	Color : ff0000
+}
+
+
+
 Sphere
 {
 	Position : 0, -0.8, 0.6
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0.54
 	Color : 7caeff
 }
@@ -154,8 +171,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0.63
 	Color : 7caeff
 }
@@ -165,8 +182,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0.72
 	Color : 7caeff
 }
@@ -176,8 +193,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0.81
 	Color : 7caeff
 }
@@ -187,8 +204,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0.9
 	Color : 7caeff
 }
@@ -198,8 +215,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Reflection: 0
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Transparency : 0.99
 	Color : 7caeff
 }

@@ -24,8 +24,8 @@ Plane
 	Reflection: 0
 	Specular: 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 Plane
 {
@@ -35,8 +35,8 @@ Plane
 	Reflection: 0
 	Specular: 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 Plane
 {
@@ -46,8 +46,8 @@ Plane
 	Reflection: 0
 	Specular: 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 Plane
 {
@@ -57,8 +57,8 @@ Plane
 	Reflection: 0
 	Specular: 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 Plane
 {
@@ -68,8 +68,8 @@ Plane
 	Reflection: 0.5
 	Specular: 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 }
 Sphere
 {
@@ -77,8 +77,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0
 	Color : ffffff
 }
@@ -88,8 +88,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0.09
 	Color : ffffff
 }
@@ -99,8 +99,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0.18
 	Color : ffffff
 }
@@ -110,8 +110,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0.27
 	Color : ffffff
 }
@@ -121,8 +121,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0.36
 	Color : ffffff
 }
@@ -132,8 +132,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0.45
 	Color : ffffff
 }
@@ -143,8 +143,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0.54
 	Color : ffffff
 }
@@ -154,8 +154,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0.63
 	Color : ffffff
 }
@@ -165,8 +165,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0.72
 	Color : ffffff
 }
@@ -176,8 +176,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0.81
 	Color : ffffff
 }
@@ -187,8 +187,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0.9
 	Color : ffffff
 }
@@ -198,8 +198,8 @@ Sphere
 	Radius : 0.15
 	Specular : 0
 	Transparency: 0;
-	Refraction_index_INSIDE: 0
-	Refraction_index_OUTSIDE: 0
+	Refraction_index_INSIDE: 1
+	Refraction_index_OUTSIDE: 1
 	Reflection : 0.99
 	Color : ffffff
 }
