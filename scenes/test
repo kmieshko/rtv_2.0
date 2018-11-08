@@ -1,7 +1,7 @@
 Scene
 {
-	Rotation: 0, 30, 0
-	Position: -10, 0, -15
+	Rotation: 10, 25, 0
+	Position: -10, 5, -20
 	Refraction_index_INSIDE: 1
 	Refraction_index_OUTSIDE: 1
 	Reflection: 3
@@ -52,18 +52,18 @@ Plane
 }
 Sphere
 {
-	Position: -0.5, 0, 4
+	Position: -0.5, 0, 3
 	radius: 2
 	Color: 7caeff
 	Specular: 300
-	Reflection: 0
+	Reflection: 0.1
 	Refraction_index_INSIDE: 1
 	Refraction_index_OUTSIDE: 1
-	Transparency: 0.9
+	Transparency: 0.5
 }
 Sphere
 {
-	Position: -0.5, 2, 4
+	Position: -0.5, 2, 3
 	Direction: 1, 1, 0
 	radius: 0.5
 	Color: 6ae9ca
@@ -75,7 +75,7 @@ Sphere
 }
 Cylinder
 {
-	Position: -0.5, 2, 4
+	Position: -0.5, 2, 3
 	Direction: 1, 1, 0
 	radius: 0.1
 	Color: 6ae9ca
