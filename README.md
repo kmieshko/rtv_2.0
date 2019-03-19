@@ -66,8 +66,8 @@ Cylinder
 # Some examples
 
 <p align="center">
-<img src="https://github.com/kmieshko/rtv_2.0/tree/master/examples/reflect_coube.png" width=600>
-<img src="https://github.com/kmieshko/rtv_2.0/tree/master/examples/scene2.png" width=600>
-<img src="https://github.com/kmieshko/rtv_2.0/tree/master/examples/test2.png" width=600>
-<img src="https://github.com/kmieshko/rtv_2.0/tree/master/examples/transparency_coube.png" width=600>
+<img src="https://github.com/kmieshko/rtv_2.0/blob/master/examples/reflect_coube.png" width=600>
+<img src="https://github.com/kmieshko/rtv_2.0/blob/master/examples/scene2.png" width=600>
+<img src="https://github.com/kmieshko/rtv_2.0/blob/master/examples/test2.png" width=600>
+<img src="https://github.com/kmieshko/rtv_2.0/blob/master/examples/transparency_coube.png" width=600>
 </p>
